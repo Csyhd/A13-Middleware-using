@@ -3,7 +3,7 @@ const express = require('express')
 const exphbs = require('express-handlebars')
 const app = express()
 const port = 3000
-const getTime = require('././public/javascripts/index')
+const getTime = require('./public/javascripts/getTime')
 
 app.engine('hbs', exphbs({ defaultLayout: 'main', extname: '.hbs' }))
 app.set('view engine', 'hbs')
