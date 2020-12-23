@@ -6,7 +6,7 @@
 - 顯示response的時間戳記,方法,URL
 - 列出從收到req到送出res所花費的時間
 
-![image]../../public/photos/time.png
+![image](https://github.com/Csyhd/A13-Middleware-using/blob/master/public/photos/time.png)
 
 
 ## 如何使用
